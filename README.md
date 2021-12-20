@@ -1,7 +1,7 @@
 # anime-compression <br />
 This is a program was used by https://www.ssanime.ga/ to compress high quality anime into smaller (compressed) file. <br />
 
-<ul> Steps to Use : <ul> <br />
+<u> Steps to Use : </u> <br />
 Step 1 : Install ffmpeg (Ignore if you already have it installed) <br />
          1. go to https://www.gyan.dev/ffmpeg/builds/ and under the release builds section click on the ffmpeg-4.3.2-essentials_build.zip to download the .zip file <br />
          2. extract the folder and rename the folder to "ffmpeg" <br />
