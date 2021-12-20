@@ -3,11 +3,11 @@ This is a program was used by https://www.ssanime.ga/ to compress high quality a
 
 <b> Steps to Use : </b> <br />
 <b>Step 1 : Install ffmpeg (Ignore if you already have it installed) </b> <br />
-<ul>
+<ol>
   <li> 1. go to https://www.gyan.dev/ffmpeg/builds/ and under the release builds section click on the ffmpeg-4.3.2-essentials_build.zip to download the .zip file </li>
    <li>      2. extract the folder and rename the folder to "ffmpeg"</li>
   <li>       3. Now copy this folder to C drive under program files. </li>
-</ul>
+</ol>
 <b>Step 2 : Add ffmpeg to the path (Ignore if you already have it installed) </b> <br />
         1. Now go inside the installed ffmpeg folder. You will see a bin folder.  <br />
         2. Copy the path of the bin folder Eg. C:\Program Files\ffmpeg\bin <br />
