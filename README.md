@@ -1,4 +1,4 @@
-# anime-compression <br />
+# anime-compressor <br />
 This is a program was used by https://www.ssanime.ga/ to compress high quality anime into smaller (compressed) file. <br />
 
 <b> Steps to Use : </b> <br />
