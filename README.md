@@ -20,10 +20,13 @@ This is a program was used by https://www.ssanime.ga/ to compress high quality a
   <li>  Now ffmpeg is added to the path. type ffmpeg in the cmd and press enter. Hopefully you will not get any eror and this will show some basic info about ffmpeg. </li>
 </ol>
 <b>Step 3 : Compress the Files.  </b> <br />
-        1. Open the compress.sh in the notepad. <br />
-        2. Follow the instructions there. <br />
-        3. Happy Compressing. Depending upon your system cofiguration within 2-2.5hrs after executing the commamd you will have your small sized anime. <br />
-        4. Enjoy the show. <br />
+<ol>
+  <li> Open the compress.sh in the notepad.  </li>
+  <li> Follow the instructions there.  </li>
+  <li> Happy Compressing. Depending upon your system cofiguration within 2-2.5hrs after executing the commamd you will have your small sized anime.  </li>
+ <li> Enjoy the show. </li>
+</ol>
+
 For more info check the original code and the blogs @ https://www.ssanime.ga/ <br />
 
 <b>website :  </b> https://www.ssanime.ga/ <br />
