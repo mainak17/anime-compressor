@@ -23,7 +23,7 @@ This is a program was used by https://www.ssanime.ga/ to compress high quality a
 <ol>
   <li> Open the compress.sh in the notepad.  </li>
   <li> Follow the instructions there.  </li>
-  <li> Happy Compressing. Depending upon your system cofiguration within 2-2.5hrs after executing the commamd you will have your small sized anime.  </li>
+  <li> Happy Compressing. Depending upon your system cofiguration within 2-2.5hrs after executing the commamd you will have your small sized animation.  </li>
  <li> Enjoy the show. </li>
 </ol>
 
