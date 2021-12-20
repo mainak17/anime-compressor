@@ -1,4 +1,4 @@
-# both input and output format of the file is .mkv
+# both input and output format of the file is .mkv . I normally use 1080p version of anime from subsplease.org
 # input.mkv is the input file prefferably in 1080p
 # output.mkv will be generated based on that input file
 # change "input.mkv" to the input video name Eg. "[SubsPlease] Mushoku Tensei - 23 (1080p) [63077C59].mkv"
