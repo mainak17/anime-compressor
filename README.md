@@ -1,5 +1,5 @@
 # anime-compressor <br />
-This is a program was used by https://www.ssanime.ga/ to compress high quality anime into smaller (compressed) file. <br />
+This is a program is similar to the one used by https://www.ssanime.ga/ to compress high quality anime into smaller (compressed) file. <br />
 
 <b> Steps to Use : </b> <br />
 <b>Step 1 : Install ffmpeg (Ignore if you already have it installed) </b> <br />
