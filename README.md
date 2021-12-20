@@ -9,14 +9,16 @@ This is a program was used by https://www.ssanime.ga/ to compress high quality a
   <li> Now copy this folder to C drive under program files. </li>
 </ol>
 <b>Step 2 : Add ffmpeg to the path (Ignore if you already have it installed) </b> <br />
-        1. Now go inside the installed ffmpeg folder. You will see a bin folder.  <br />
-        2. Copy the path of the bin folder Eg. C:\Program Files\ffmpeg\bin <br />
-        3. Now go to This PC and right click.  <br />
-        4. Click on the properties and then click on the Advanced System Settings. </b> <br />
-        5. Click on Environment Variables. <br />
-        6. Under System Variables double click on Path. <br />
-        7. Click New -> Paste the copied path of the bin folder -> Ok . <br />
-        8. Now ffmpeg is added to the path. type ffmpeg in the cmd and press enter. Hopefully you will not get any eror and this will show some basic info about ffmpeg. <br />
+<ol>
+  <li>  Now go inside the installed ffmpeg folder. You will see a bin folder.  </li>
+  <li>  Copy the path of the bin folder Eg. C:\Program Files\ffmpeg\bin </li>
+  <li>  Now go to This PC and right click.  </li>
+  <li>  Click on the properties and then click on the Advanced System Settings.  </li>
+  <li>  Click on Environment Variables. </li>
+  <li>  Under System Variables double click on Path. </li>
+  <li>  Click New -> Paste the copied path of the bin folder -> Ok . </li>
+  <li>  Now ffmpeg is added to the path. type ffmpeg in the cmd and press enter. Hopefully you will not get any eror and this will show some basic info about ffmpeg. </li>
+</ol>
 <b>Step 3 : Compress the Files.  </b> <br />
         1. Open the compress.sh in the notepad. <br />
         2. Follow the instructions there. <br />
