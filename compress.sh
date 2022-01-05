@@ -9,6 +9,6 @@
 # add ffmpeg to the path
 # open cmd and navigate to where the input file is located
 # edit the input and output video names in the command below(line 14) according to your files
-# paste the updated command on the cmd and wait for the program to compress your file
+# paste the updated command on the cmd and press enter and wait for the program to compress your file
 # Enjoy!
 ffmpeg -i "input.mkv" -map 0:v -map 0:a -b:a 192k -c:a aac -c:v libx265 -color_primaries 1 -color_range 1 -color_trc 1 -colorspace 1 -crf 24.2 -map 0:s? -pix_fmt yuv420p -preset slow -profile:v main -vf smartblur=1.5:-0.35:-3.5:0.65:0.25:2.0,scale=1920:1080:spline16+accurate_rnd+full_chroma_int -x265-params me=2:rd=4:subme=7:aq-mode=3:aq-strength=1:deblock=1,1:psy-rd=1:psy-rdoq=1:rdoq-level=2:merange=57:bframes=8:b-adapt=2:limit-sao=1:frame-threads=3:no-info=1 "output.mkv" -y
